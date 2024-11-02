@@ -1,1 +1,1 @@
-# MINST
+# MINST_MLOPS
